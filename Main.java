@@ -1,7 +1,8 @@
 public class Main {
 
      public static void main(String[] args){
-    String name = "Xiaojun";
-    System.out.println("Hello "+name);
+    // String name = "Xiaojun";
+    char letter = 'B';
+    System.out.println(letter);
     }
 }
