@@ -1,0 +1,3 @@
+Buffered Writer Example
+This is the second line.
+This is appended line.
